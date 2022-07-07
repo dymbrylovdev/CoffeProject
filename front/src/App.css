@@ -1,0 +1,16 @@
+
+.App {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.auth_container {
+    width: 300px !important;
+}
+
+
+.reg_container {
+    width: 50% !important;
+    margin: 0 auto;
+}
